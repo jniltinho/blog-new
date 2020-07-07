@@ -2,3 +2,8 @@ baseURL = "https://linuxpro-blog.netlify.app/"
 languageCode = "en-us"
 title = "LinuxPro Blog"
 theme = "mainroad"
+
+
+
+[Params]
+  postSections = ["post", "posts"]
