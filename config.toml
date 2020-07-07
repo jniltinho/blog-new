@@ -1,4 +1,9 @@
-baseURL = "https://linuxpro-blog.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "LinuxPro Blog"
 theme = "mainroad"
+
+
+
+[params]
+  postSections = ["post", "posts"]
