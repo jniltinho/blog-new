@@ -25,7 +25,7 @@ O sistema de distribuição de nomes de domínio começou no ano de 1984, e atra
 O DNS baseia-se em nomes hierárquicos e permite a inscrição de vários dados digitados, além do nome do Hoste do IP (Internet Protocol).
 <!-- more -->
 
-{{ youtube(id="ACGuo26MswI") }}
+{{< youtube ACGuo26MswI >}}
 
 Pelo fato de o banco de dados de DNS ser distribuído, o tamanho é ilimitado e o desempenho não altera quando outros servidores são adicionados.
 Existem 13 servidores DNS no mundo todo e sem eles a Internet não funcionaria.
